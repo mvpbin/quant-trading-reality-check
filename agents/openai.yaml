@@ -1,0 +1,4 @@
+interface:
+  display_name: "Quant Strategy Workbench"
+  short_description: "Research, backtest, and review trading strategies"
+  default_prompt: "Use $quant-trading-reality-check to turn this trading idea into a testable strategy, backtest plan, and risk review."
